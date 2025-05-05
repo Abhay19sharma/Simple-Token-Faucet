@@ -1,3 +1,5 @@
+![Screenshot 2025-05-05 175251](https://github.com/user-attachments/assets/408c7699-de28-40cc-b235-f13c0a8abc70)
+![Screenshot 2025-05-05 175228](https://github.com/user-attachments/assets/67806e12-596e-4d8c-b8ae-1a006328e2d9)
 # Simple Token Faucet
 
 ## Project Description
